@@ -173,7 +173,6 @@ static const TracingCategory k_categories[] = {
         { OPT,      "events/clk/clk_disable/enable" },
         { OPT,      "events/clk/clk_enable/enable" },
         { OPT,      "events/power/cpu_frequency_limits/enable" },
-        { OPT,      "events/power/suspend_resume/enable" },
         { OPT,      "events/cpuhp/cpuhp_enter/enable" },
         { OPT,      "events/cpuhp/cpuhp_exit/enable" },
         { OPT,      "events/cpuhp/cpuhp_pause/enable" },
